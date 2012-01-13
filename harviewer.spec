@@ -1,11 +1,11 @@
 Summary:	Visualise HTTP Archive log files
 Name:		harviewer
-Version:	2.0.10
+Version:	2.0.14
 Release:	1
 License:	New BSD
 Group:		Applications/WWW
 Source0:	http://harviewer.googlecode.com/files/%{name}-%{version}.zip
-# Source0-md5:	1d4e4740fcf28951854d7ea97d00f1ea
+# Source0-md5:	5690eab5257f6324dd55767c55b92351
 Source1:	apache.conf
 Source2:	lighttpd.conf
 URL:		https://code.google.com/p/harviewer/
